@@ -17,6 +17,7 @@ header {
 }
 .navbar ul li {
     float: left;
+    padding: 0 20px 20px 0;
 }
 .navbar ul li a {
     text-decoration: none;
